@@ -1,0 +1,1 @@
+This Github repo contains all the Python scripts that were used for the NASA Space Apps Challenge (in the form of Jupyter Notebooks). This consists of a script for the implementation of the Random Forest Classifier, a script for the K-Neighbors Classifier, and a script for the Logistic Regression. The outcomes of each algorithm can be found in the presentation shared.
